@@ -1,8 +1,8 @@
-package sort;
+package selectionSort;
 
 import java.util.Arrays;
 
-public class selectionSort {
+public class basic {
 	
 	// 배열 a에서 i 위치와 j 위치의 값을 서로 바꾼다.
 	static void swap(int[] a, int i, int j) {

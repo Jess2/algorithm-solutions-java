@@ -1,11 +1,11 @@
 // 문제 출처 : https://www.acmicpc.net/problem/11650
 
-package sort;
+package selectionSort;
 
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class problem11650 {
+public class boj11650 {
 	
 	// 배열 a에서 i 위치와 j 위치의 값을 서로 바꾼다.
 	static void swap(int[][] a, int i, int min) {

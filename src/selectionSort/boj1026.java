@@ -1,10 +1,10 @@
 // 문제 출처 : https://www.acmicpc.net/problem/1026
 
-package sort;
+package selectionSort;
 
 import java.util.Scanner;
 
-public class problem1026 {
+public class boj1026 {
 	
 	// 배열 a에서 i 위치와 j 위치의 값을 서로 바꾼다.
 	static void swap(int[] a, int i, int min) {
