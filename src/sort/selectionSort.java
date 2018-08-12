@@ -33,7 +33,7 @@ public class selectionSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int[] a = { 31, 2, 4, 32, 5};
+		int[] a = { 31, 2, 4, 32, 5 };
 		
 		selectionSort(a);
 		System.out.println(Arrays.toString(a));
