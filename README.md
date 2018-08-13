@@ -7,3 +7,4 @@
 
 ## 주제별 문제풀이
 - [선택정렬](https://github.com/JESS2/algorithm_solutions/tree/master/src/selectionSort)
+- [버블정렬](https://github.com/JESS2/algorithm_solutions/tree/master/src/bubbleSort)
