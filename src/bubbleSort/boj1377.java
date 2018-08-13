@@ -2,7 +2,6 @@
 
 package bubbleSort;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class boj1377 {
