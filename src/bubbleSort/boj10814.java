@@ -19,7 +19,6 @@ public class boj10814 {
 		for(int i=a.length-1; i>=1; i--) {
 			for(int j=0; j<i; j++) {
 				if(Integer.parseInt(a[j][0]) > Integer.parseInt(a[j+1][0])) {
-					System.out.println("swap");
 					swap(a, j, j+1);
 				}
 			}
