@@ -1,4 +1,4 @@
-# algorithm_solutions
+# algorithm-solutions-java
 > 알고리즘 개념 및 문제 풀이 저장소
 
 ## 문제 출처
