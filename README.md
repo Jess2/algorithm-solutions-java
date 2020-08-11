@@ -8,3 +8,7 @@
 ## 주제별 문제풀이
 - [선택정렬](https://github.com/JESS2/algorithm_solutions/tree/master/src/selectionSort)
 - [버블정렬](https://github.com/JESS2/algorithm_solutions/tree/master/src/bubbleSort)
+
+## etc.
+- [백준저지 Java 알고리즘 문제풀이 저장소](https://github.com/JESS2/boj-algorithm-solutions-java)
+- [JavaScript 알고리즘 문제풀이 저장소](https://github.com/JESS2/algorithm-solutions-javascript)
